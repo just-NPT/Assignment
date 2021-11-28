@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tranfermation</string>
+    <string name="title">Chuyển hệ cơ số</string>
+    <string name="state">Enter number</string>
+    <string name="first_text">Chọn hệ đầu :</string>
+    <string name="second_text">Chọn hệ sau :</string>
+    <string name="enter">Enter</string>
+    <string name="result">Kết quả</string>
+</resources>
